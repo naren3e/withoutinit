@@ -1,2 +1,2 @@
 public statttic void main(){
-}
+hi all}
